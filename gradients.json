@@ -977,5 +977,9 @@
     {
       "name": "Kimoby Is The New Blue",
       "colors": ["#396afc", "#2948ff"]
+    },
+    {
+      "name": "Doctor Who",
+      "colors": ["#00ff00", "#102372"]
     }
 ]
